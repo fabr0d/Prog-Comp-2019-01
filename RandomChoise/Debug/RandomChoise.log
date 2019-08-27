@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Fabrizio\Documents\GitHub\Prog-Comp-2019-01\RandomChoise\main.cpp(12,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Fabrizio\Documents\GitHub\Prog-Comp-2019-01\RandomChoise\main.cpp(22,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Fabrizio\Documents\GitHub\Prog-Comp-2019-01\RandomChoise\main.cpp(36,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Fabrizio\Documents\GitHub\Prog-Comp-2019-01\RandomChoise\main.cpp(70,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Fabrizio\Documents\GitHub\Prog-Comp-2019-01\RandomChoise\main.cpp(86,20): warning C4018:  '<': signed/unsigned mismatch
+  RandomChoise.vcxproj -> C:\Users\Fabrizio\Documents\GitHub\Prog-Comp-2019-01\RandomChoise\Debug\RandomChoise.exe
