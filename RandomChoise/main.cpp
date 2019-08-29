@@ -61,10 +61,12 @@ int main()
 	if (set_all_to_cero(people) == true)
 	{
 		cout << "ya salieron todos :s" << endl;
+		return 0;
 	}
 	else
 	{
 		cout << "aun faltan" << endl;
+
 	}
 
 	srand(time(NULL));
